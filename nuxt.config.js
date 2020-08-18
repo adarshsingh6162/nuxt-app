@@ -1,7 +1,7 @@
 
 export default {
   router: {
-    base: '/killer/' || ''       
+    base: '/killer/' || ''        
   },
   /*
   ** Nuxt rendering mode
