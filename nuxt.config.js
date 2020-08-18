@@ -3,6 +3,7 @@ export default {
   router: {
     base: '/killer/' || ''        
   },
+
   /*
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
