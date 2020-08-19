@@ -21,7 +21,7 @@
           class="button--grey"
         >
           GitHub 
-        </a>
+        </a> 
       </div>
     </div>
   </div>
