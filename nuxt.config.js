@@ -1,7 +1,7 @@
 
 export default {
   router: {
-    base: '/nuxt/' || ''        
+    base: process.env.PUBLIC_PATH || ''        
   },
 
   /*
